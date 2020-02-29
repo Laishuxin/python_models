@@ -42,13 +42,52 @@ if __name__ == "__main__":
     #             soon out of breath, but she continued to run. When she caught up with them, she saw that they had sat down and
     #             were going through the contents of the bag, so she ran straight at them. The men got such a fright that they
     #             dropped the bag and ran away. 'The strap needs mending,' said Mrs. Sterling later, 'but they did not steal anything."""
-    artical = """The whole village soon learnt that a large sum of money had been lost. Sam Benton, the local butcher, had
-lost his wallet while taking his savings to the post office. Sam was sure that the wallet must have been found by
-one of the villagers, but it was not returned to him. Three months passed, and then one morning, Sam found his
-wallet outside his front door. It had been wrapped up in newspaper and it contained half the money he had lost,
-together with a note which said: 'A thief, yes, but only 50 per cent a thief!' Two months later, some more money
-was sent to Sam with another note: 'Only 25 per cent a thief now!' In time, all Sam's money was paid back in this way. The last note
-said: 'I am 100 per cent honest now!'
+    # artical = """The whole village soon learnt that a large sum of money had been lost. Sam Benton, the local butcher, had
+    # lost his wallet while taking his savings to the post office. Sam was sure that the wallet must have been found by
+    # one of the villagers, but it was not returned to him. Three months passed, and then one morning, Sam found his
+    # wallet outside his front door. It had been wrapped up in newspaper and it contained half the money he had lost,
+    # together with a note which said: 'A thief, yes, but only 50 per cent a thief!' Two months later, some more money
+    # was sent to Sam with another note: 'Only 25 per cent a thief now!' In time, all Sam's money was paid back in this way. The last note
+    # said: 'I am 100 per cent honest now!'
+    #     """
+    # artical2 = """
+    #     When a plane from London arrived at Sydney airport, workers began to unload a number of wooden boxes
+    # which contained clothing. No one could account for the fact that one of the boxes was extremely heavy. It
+    # suddenly occurred to one of the workers to open up the box. He was astonished at what he found. A man was lying
+    # in the box on top of a pile of wooden goods. He was so surprised at being discovered that he did not even try to
+    # run away. After he was arrested, the man admitted hiding in the box before the plane left London. He had had a
+    # long and uncomfortable trip, for he had been confined to the wooden box for over eighteen hours. The man was
+    # ordered to pay $3,500 for the cost of the trip. The normal price of a ticket is $2,000!
+    # """
+    #     artical3 = """
+    #     A public house which was recently bought by Mr. Ian Thompson is up for sale. Mr.Thompson is going to sell
+    # it because it is haunted. He told me that he could not go to sleep one night because he heard a strange noise
+    # coming from the bar. The next morning, he found that the doors had been blocked by chairs and the furniture had
+    # been moved. Though Mr.Thompson had turned the lights off before he went to bed, they were on in the morning.
+    # He also said that he had found five empty whisky bottles which the ghost must have drunk the night before. When
+    # I suggested that some villagers must have come in for a free drink, Mr.Thompson shook his head. The villagers
+    # have told him that they will not accept the pub even if he gives it away
+    # """
+    # artical = """
+    #     Dentists always ask questions when it is impossible for you to answer. My dentist had just pulled out one of
+    # my teeth and had told me to rest for a while. I tried to say something, but my mouth was full of cotton wool. He
+    # knew I collected match boxes and asked me whether my collection was growing. He then asked me how my
+    # brother was and whether I liked my new job in London. In answer to these questions I either nodded or made
+    # strange noises. Meanwhile, my tongue was busy searching out the hole where the tooth had been. I suddenly felt
+    # very worried, but could not say anything. When the dentist at last removed the cotton wool from my mouth, I was
+    # able to tell him that he had pulled out the wrong tooth.
+    # """
+
+    artical = """
+Tired of sleeping on the floor, a young man in Teheran saved up for years to buy a real bed. For the first time
+in his life, he became the proud owner of a bed which had springs and a mattress. Because the weather was very
+hot, he carried the bed on to the roof of his house. He slept very well for the first two nights, but on the third night,
+a storm blew up. A gust of wind swept the bed off the roof and sent it crashing into the courtyard below. The
+young man did not wake up until the bed had struck the ground. Although the bed was smashed to pieces, the man
+was miraculously unhurt. When he woke up, he was still on the mattress. Glancing at the bits of wood and metal
+that lay around him, the man sadly picked up the mattress and carried it into his house. After he had put 
+it on the floor, he promptly went to sleep again.
     """
+
     artical_str = make_practice(artical)
     print(artical_str)
