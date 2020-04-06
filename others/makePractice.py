@@ -79,15 +79,16 @@ if __name__ == "__main__":
     # """
 
     artical = """
-Tired of sleeping on the floor, a young man in Teheran saved up for years to buy a real bed. For the first time
-in his life, he became the proud owner of a bed which had springs and a mattress. Because the weather was very
-hot, he carried the bed on to the roof of his house. He slept very well for the first two nights, but on the third night,
-a storm blew up. A gust of wind swept the bed off the roof and sent it crashing into the courtyard below. The
-young man did not wake up until the bed had struck the ground. Although the bed was smashed to pieces, the man
-was miraculously unhurt. When he woke up, he was still on the mattress. Glancing at the bits of wood and metal
-that lay around him, the man sadly picked up the mattress and carried it into his house. After he had put 
-it on the floor, he promptly went to sleep again.
+At last firemen have put out a big forest fire in California. Since then, they have been trying to find out how
+the fire began. Forest fires are often caused by broken glass or by cigarette ends which people carelessly throw
+away. Yesterday the firemen examined the ground carefully, but were not able to find any broken glass. They were
+also quite sure that a cigarette end did not start the fire. This morning, however, a firemen accidentally discovered
+the cause. He noticed the remains of a snake which was wound round the electric wires of a 16,000-volt power
+line. In this way, he was able to solve the mystery. The explanation was simple but very unusual. A bird had
+snatched up the snake from the ground and then dropped it on to the wires. The snake then wound itself round the
+wires. When it did so, it sent sparks down to the ground and these immediately started a fire
     """
 
     artical_str = make_practice(artical)
     print(artical_str)
+
